@@ -1,0 +1,15 @@
+@media (max-width: 640px) {
+    .banner {
+        padding-top: 0px;
+        grid-template-columns: 1fr;
+    }
+
+    .banner__wrapper-upcoming {
+        padding: 0;
+
+    }
+
+    .banner__cards {
+        grid-template-columns: 1fr;
+    }
+}

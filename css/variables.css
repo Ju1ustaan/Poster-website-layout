@@ -1,0 +1,27 @@
+:root {
+  --font-primary: clamp(12px, 2vw, 14px);
+  
+  --font-hero-banner-title: clamp(32px, 3vw, 42px);
+  
+  --font-section-title: clamp(24px, 3vw, 32px);
+  
+  --font-sm-tag: 12px;
+  
+  --font-pagination: clamp(14px, 2vw, 18px);
+  
+  --font-sm-card-title: clamp(16px, 2vw, 20px);
+
+  --font-md-card-title: clamp(18px, 2vw, 24px);
+
+  --font-footer: clamp(14px, 2vw, 18px);
+
+  --color-primary-black: #242424;
+  
+  --color-primary-white: #FFFFFF;
+
+  --color-primary-gray: rgba(36, 36, 36, 0.6);
+
+  --color-secondary-gray: rgba(36, 36, 36, 0.5);
+
+  --color-image-background: rgba(217, 217, 217, 1);
+}
